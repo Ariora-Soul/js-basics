@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    color: white;
+    background-color: #0c5bdb;
+    height: auto;
+    font-family: "poppins";
+}
+
+.centrate {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15%;
+}
+
+h1, p {
+    display: flex;
+}
